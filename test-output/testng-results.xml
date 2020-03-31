@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121206" started-at="2020-03-30T11:35:14Z" finished-at="2020-03-30T11:37:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121206" started-at="2020-03-30T11:35:14Z" finished-at="2020-03-30T11:37:15Z">
+      <class name="com.cts.test.Myaccountpagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.cts.test.Myaccountpagetest@20d3d15a]" name="setup" is-config="true" duration-ms="31958" started-at="2020-03-30T17:05:14Z" finished-at="2020-03-30T17:05:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="landpagetest()[pri:1, instance:com.cts.test.Myaccountpagetest@20d3d15a]" name="landpagetest" duration-ms="4454" started-at="2020-03-30T17:05:46Z" finished-at="2020-03-30T17:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landpagetest -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:com.cts.test.Myaccountpagetest@20d3d15a]" name="browserclose" is-config="true" duration-ms="4967" started-at="2020-03-30T17:05:51Z" finished-at="2020-03-30T17:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.cts.test.Myaccountpagetest@20d3d15a]" name="setup" is-config="true" duration-ms="32471" started-at="2020-03-30T17:05:56Z" finished-at="2020-03-30T17:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titlecheck()[pri:2, instance:com.cts.test.Myaccountpagetest@20d3d15a]" name="titlecheck" duration-ms="134" started-at="2020-03-30T17:06:28Z" finished-at="2020-03-30T17:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecheck -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:com.cts.test.Myaccountpagetest@20d3d15a]" name="browserclose" is-config="true" duration-ms="1551" started-at="2020-03-30T17:06:28Z" finished-at="2020-03-30T17:06:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.cts.test.Myaccountpagetest@20d3d15a]" name="setup" is-config="true" duration-ms="15013" started-at="2020-03-30T17:06:30Z" finished-at="2020-03-30T17:06:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logincheck()[pri:3, instance:com.cts.test.Myaccountpagetest@20d3d15a]" name="logincheck" duration-ms="25998" started-at="2020-03-30T17:06:45Z" finished-at="2020-03-30T17:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincheck -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:com.cts.test.Myaccountpagetest@20d3d15a]" name="browserclose" is-config="true" duration-ms="4604" started-at="2020-03-30T17:07:11Z" finished-at="2020-03-30T17:07:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.cts.test.Myaccountpagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
